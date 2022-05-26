@@ -1,4 +1,4 @@
-## Olá, Sou Matheus Affonso Estudante de engenharia da computação!
+## Olá, Sou Matheus Affonso e Estudante de engenharia da computação!
 <div align="center">
   <a href="https://github.com/Matheus-Loubach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Loubach&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
