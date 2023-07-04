@@ -22,7 +22,7 @@
   <img align="center" alt="Matheus-redux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
 </div>
   
-  ##
+
  
 <div> 
 <!--   <a href="https://instagram.com/matheus.loubach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
