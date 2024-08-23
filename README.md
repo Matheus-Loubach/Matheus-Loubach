@@ -1,4 +1,4 @@
-## Olá, Sou o Matheus,Estudante de Engenharia da computação 
+## Olá, Sou o Matheus, Engenheiro da computação 
 <div align="center">
   <a href="https://github.com/Matheus-Loubach">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Loubach&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
