@@ -1,32 +1,75 @@
-
-<h1 align="center">Olá, Sou o Matheus</h1>
-<h3 align="center">Engenheiro da Computação apaixonado por desenvolvimento web e novas tecnologias.</h3>
-
-
-<div align="center"> <a href="mailto:matheus.loubach@gmail.com"> <img src="https://img.shields.io/badge/Email-matheus.loubach@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/matheus-loubach/"> <img src="https://img.shields.io/badge/LinkedIn-Matheus_Loubach-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Matheus-Loubach"> <img src="https://img.shields.io/badge/GitHub-Matheus_Loubach-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Loubach&theme=github_dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" /> </div>
-
-Frontend
-<div style="display: inline_block"> <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> <img align="center" alt="Tailwind" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"> <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Redux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> 
-<img align="center" alt="Material-UI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-<img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Desenvolvedor%20FullStack&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
-Backend
-<div style="display: inline_block"> <img align="center" alt="Node.js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Express" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg"> <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </div>
-Banco de Dados
-<div style="display: inline_block"> <img align="center" alt="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> <img align="center" alt="PostgreSQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Prisma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"> <img align="center" alt="Firebase" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> </div>
-DevOps & Ferramentas
-<div style="display: inline_block"> <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"> <img align="center" alt="NPM" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"> 
- <img align="center" alt="Postman" height="40" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-   <img align="center" alt="Insomnia" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/insomnia.svg">
-  <img align="center" alt="Swagger" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
-   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> 
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+o+Matheus+Loubach!;Engenheiro+da+Computação" />
+</h1>
+
+<!--<h3 align="center">Desenvolvedor Full Stack</h3>-->
+
+<br/>
+
+<div align="center">
+  <a href="mailto:matheus.loubach@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-loubach/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://github.com/Matheus-Loubach" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a> -->
 </div>
-<!-- 🚀 Projetos em Destaque
-<div align="center"> <a href="https://github.com/Matheus-Loubach/Projeto1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Loubach&repo=Projeto1&theme=github_dark&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/Matheus-Loubach/Projeto2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Loubach&repo=Projeto2&theme=github_dark&hide_border=true&bg_color=0D1117" /> </a> </div>
-🐍 Contribuições -->
-<!-- <div align="center"> <img src="https://github.com/Matheus-Loubach/Matheus-Loubach/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
-<div align="center"> <p>Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato.</p> <img src="https://komarev.com/ghpvc/?username=Matheus-Loubach&color=10b981&style=for-the-badge" alt="Profile views" /> </div> ``` -->
+
+<hr/>
+
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Matheus-Loubach&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Matheus-Loubach&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Loubach&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">💻 Tecnologias 💻</h2>
+<br/>
+
+<div align="center">
+    <h3>🌐 Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,redux,materialui,angular" />
+    <br/><br/>
+     <h3>⚙️ Backend</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+    <br/><br/>
+     <h3>🛢️ Banco de Dados</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase" />
+    <br/><br/>
+    <h3>🔧 DevOps & Ferramentas</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,npm,postman,jest,firebase" />
+    <img src="https://www.vectorlogo.zone/logos/getinsomnia/getinsomnia-icon.svg" width="48" height="48" alt="Insomnia" />
+    <img src="https://skillicons.dev/icons?i=swagger" />
+</div>
+
+<br/><br/>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!">
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matheus-Loubach&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
