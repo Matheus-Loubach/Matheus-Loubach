@@ -1,6 +1,7 @@
 
-Olá, Sou o Matheus 👋
-Engenheiro da Computação apaixonado por desenvolvimento web e novas tecnologias.
+<h1 align="center">Olá, Sou o Matheus</h1>
+<h3 align="center">Engenheiro da Computação apaixonado por desenvolvimento web e novas tecnologias.</h3>
+
 
 <div align="center"> <a href="mailto:matheus.loubach@gmail.com"> <img src="https://img.shields.io/badge/Email-matheus.loubach@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/matheus-loubach/"> <img src="https://img.shields.io/badge/LinkedIn-Matheus_Loubach-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Matheus-Loubach"> <img src="https://img.shields.io/badge/GitHub-Matheus_Loubach-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 
