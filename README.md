@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou o Matheus Loubach</h1>
+<h1 align="center">Olá, sou o Matheus Loubach</h1>
 <h3 align="center">Engenheiro da Computação · Desenvolvedor FullStack</h3>
 
 <p align="center">
@@ -45,7 +45,6 @@
 
 ---
 
-<p align="center">🙏 Obrigado pela visita!</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Matheus-Loubach&style=flat-square&color=blue" alt="Profile views" />
 </p>
